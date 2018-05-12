@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8655
     wikipedia: http://en.wikipedia.org/wiki/Neville_Stuart_Talbot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19413#Thoughts-on-religion-at-the-front
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-10-01'
 gutenberg_type: Text
