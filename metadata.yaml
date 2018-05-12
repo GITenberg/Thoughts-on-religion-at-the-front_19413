@@ -1,0 +1,30 @@
+_repo: Thoughts-on-religion-at-the-front_19413
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talbot, N. S. (Neville Stuart)
+    alias: Talbot, Neville Stuart
+    birthdate: 1879
+    deathdate: 1943
+    gutenberg_agent_id: '8655'
+    url: http://www.gutenberg.org/2009/agents/8655
+    wikipedia: http://en.wikipedia.org/wiki/Neville_Stuart_Talbot
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19413'
+  lccn: '17018383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Religious aspects'
+title: Thoughts on religion at the front
+url: http://www.gutenberg.org/ebooks/19413
